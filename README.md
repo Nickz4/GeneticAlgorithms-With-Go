@@ -1,6 +1,4 @@
----
 date:2019.4.5 01点48分
----
 
 # GeneticAlgorithms-With-Go
 
